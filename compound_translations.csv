@@ -1,0 +1,27 @@
+Estonian Name,SMILES
+vesi,O
+süsinikdioksiid,O=C=O
+metaan,C
+etanool,CCO
+glükoos,OC[C@@H](O1)[C@@H](O)[C@H](O)[C@@H](O)[C@H](O)1
+propaan,CCC
+etaan,CC
+butaan,CCCC
+pentaan,CCCCC
+heksaan,CCCCCC
+heptaan,CCCCCCC
+oktaan,CCCCCCCC
+nonaan,CCCCCCCCC
+eteen,C=C
+etüün,C#C
+klorometaan,CCl
+bromometaan,CBr
+jodometaan,CI
+fluorometaan,CF
+dimetüüleeter,COC
+naftaleen,c1cccc2c1cccc2
+benseen,c1ccccc1
+fenool,c1ccccc1O
+nitrobenseen,c1ccccc1NOO
+tsükloheksaan,C1CCCCC1
+aniliin,c1ccccc1N
