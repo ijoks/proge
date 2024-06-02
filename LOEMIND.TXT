@@ -1,0 +1,40 @@
+Et kood töötaks, on vaja alla laadida RDKit. Seda saab teha kirjutades terminali "pip install rdkit".
+Järgmiseks on vaja jooksutada app.py fail, soovitatavalt ilma debuggimiseta, sest muidu võib saada vastu errori.
+Ava veebileht, vajutades lingile http://127.0.0.1:5000 või kirjutades see browserisse.
+
+Vali üks aine siit listist:
+vesi
+süsinikdioksiid
+metaan
+etanool
+glükoos
+propaan
+etaan
+butaan
+pentaan
+heksaan
+heptaan
+oktaan
+nonaan
+eteen
+etüün
+klorometaan
+bromometaan
+jodometaan
+fluorometaan
+dimetüüleeter
+naftaleen
+benseen
+fenool
+nitrobenseen
+tsükloheksaan
+aniliin
+
+Kirjuta aine nimi tekstikasti ja vajuta sisesta.
+Kui saad errori, kontrolli, et kirjutasid aine nime õigesti.
+
+| vesi |  |  |  |  |
+|---|---|---|---|---|
+| süsinikdioksiid |  |  |  |  |
+| etaan |  |  |  |  |
+|  |  |  |  |  |
