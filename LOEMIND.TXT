@@ -33,8 +33,3 @@ aniliin
 Kirjuta aine nimi tekstikasti ja vajuta sisesta.
 Kui saad errori, kontrolli, et kirjutasid aine nime õigesti.
 
-| vesi |  |  |  |  |
-|---|---|---|---|---|
-| süsinikdioksiid |  |  |  |  |
-| etaan |  |  |  |  |
-|  |  |  |  |  |
