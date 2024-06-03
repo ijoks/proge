@@ -31,5 +31,5 @@ tsükloheksaan
 aniliin
 
 Kirjuta aine nimi tekstikasti ja vajuta sisesta.
-Kui saad errori, kontrolli, et kirjutasid aine nime õigesti.
+Kui saad errori, kontrolli, et kirjutasid aine nime õigesti. (Suured või väiksed tähed ei mängi rolli)
 
